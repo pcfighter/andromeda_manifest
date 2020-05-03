@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Shared Xiaomi's trees for sm8150 family -->
+  <project path="device/xiaomi/sm8150-common" name="Demon000/device_xiaomi_sm8150-common" revision="lineage-17.1" />
+
+  <!-- For now, use Inkypen's kernel for andromeda-->
+  <project path="kernel/xiaomi/sm8150" name="Inkypen79/kernel_andromeda" revision="lineage-17.1" />
+
+  <!-- Mi Mix 3 5G device tree and dependencies -->
+  <project path="device/xiaomi/andromeda" name="pcfighter/device_xiaomi_andromeda" revision="lineage-17.1" />
+
+  <!-- non-free -->
+  <project path="vendor/xiaomi/andromeda" name="Inkypen79/vendor_xiaomi_andromeda" revision="lineage-17.1" />
+
+</manifest>
