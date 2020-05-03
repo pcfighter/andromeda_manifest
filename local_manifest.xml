@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <!-- Shared Xiaomi's trees for sm8150 family -->
-  <project path="device/xiaomi/sm8150-common" name="pcfighter/device_xiaomi_sm8150-common" revision="lineage-17.1" />
-
   <!-- For now, use Inkypen's kernel for andromeda-->
   <project path="kernel/xiaomi/sm8150" name="Inkypen79/kernel_andromeda" revision="lineage-17.1" />
 
